@@ -31,17 +31,29 @@ To build a basic self-learning car simulation from scratch using plain JavaScrip
 ## 📁 Project Structure
 
 ai-self-driving-car/
+
 ├── car.js           # Car class: physics, movement, drawing
+
 ├── controls.js      # Keyboard and AI control logic
+
 ├── index.html       # Canvas + initial layout
+
 ├── main.js          # Entry point: sets up simulation, animates
+
 ├── network.js       # Neural network logic from scratch
+
 ├── road.js          # Road structure, lane calculations
+
 ├── sensor.js        # Sensor rays for obstacle detection
+
 ├── style.css        # Basic CSS styling
+
 ├── test.cpp         # (Optional/Unused) C++ test file
+
 ├── utils.js         # Utility functions (math, collision, etc.)
+
 ├── visualizer.js    # Visualizes the neural network on canvas
+
 └── README.md        # This file
 
 ---
